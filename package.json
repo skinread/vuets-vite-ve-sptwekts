@@ -22,6 +22,7 @@
     "@vanilla-extract/recipes": "^0.2.4",
     "@vanilla-extract/sprinkles": "^1.4.0",
     "@vanilla-extract/vite-plugin": "^3.1.5",
+    "@vanilla-extract/webpack-plugin": "^2.1.9",
     "@vitejs/plugin-vue": "^2.3.2",
     "babel-loader": "^8.2.5",
     "typescript": "^4.5.4",
